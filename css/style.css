@@ -341,3 +341,9 @@ h6 {
 #main-footer .footer-container input[type="submit"] {
   width: 90%;
 }
+
+/* Mine */
+
+#showcase h1 {
+  line-height: 1;
+}
